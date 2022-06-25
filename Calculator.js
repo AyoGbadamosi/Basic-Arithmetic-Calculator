@@ -1,4 +1,4 @@
-function performMathoperation(num1, num2, operator){
+function performMathoperation(a, b, operator){
     if (operator === '+'){
         return a + b;
     }
